@@ -85,8 +85,13 @@ Through a series of experiments and visualizations, we analyze decision boundary
 ## 📊 Visualizations
 
 - **Initial SVM vs Initial NN**: Highlights early-stage performance differences.
+- ![InitialSVMvsNN](https://github.com/user-attachments/assets/ce20de8b-423c-44b7-8c4b-f880162c996b)
+
 - **Fine-Tuned SVM**: Shows marginal improvement with optimal gamma & cost.
+- ![InitialSVMvsFinalSVM_91 4vs92 3](https://github.com/user-attachments/assets/5c6afaeb-f890-4a3e-9d44-2c3e91364a0e)
+
 - **Fine-Tuned NN**: Shows complete separation and perfect classification with 50+ neurons and low decay.
+![UpdatedNN_92 4vs100](https://github.com/user-attachments/assets/d6d3c3e0-b87e-42b2-939d-c87ebde6003b)
 
 > 🖼️ Decision boundary plots included in `/visualizations/` folder.
 
