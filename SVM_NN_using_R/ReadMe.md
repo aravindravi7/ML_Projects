@@ -131,7 +131,6 @@ Through a series of experiments and visualizations, we analyze decision boundary
 ## 👨‍💻 Author
 
 **Aravind Ravi**  
-MS in Information Systems  
-[GitHub Profile](https://github.com/aravind-ravi)
+
 
 ---
