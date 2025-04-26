@@ -1,5 +1,16 @@
 # 📊 Binary Classification using Support Vector Machines (SVM) and Neural Networks (NN)
 
+![2](https://github.com/user-attachments/assets/053e2679-c034-4909-9c56-3a343a1eac26)
+![3](https://github.com/user-attachments/assets/6ca00a74-5d73-4153-86f7-adffc0cad637)
+![4](https://github.com/user-attachments/assets/e2496ad2-0c0f-4226-8d66-ef7f41cda580)
+![5](https://github.com/user-attachments/assets/0f912547-0a88-4e1e-8eaf-afb7974fd6e1)
+![6](https://github.com/user-attachments/assets/45308198-b364-4ce4-b743-d2ad1f2cf7b2)
+![7](https://github.com/user-attachments/assets/db0a4f70-4fb5-4cf6-94ed-479b81871f0f)
+![8](https://github.com/user-attachments/assets/da97ef1f-0c64-4a0f-8d13-6d745c8cac5c)
+![9](https://github.com/user-attachments/assets/6d24d99b-ae86-4f0f-8458-59f35e1c28f8)
+![10](https://github.com/user-attachments/assets/46c590d7-7b42-420d-af95-ed36bc0681c1)
+
+
 ## 🧠 Project Overview
 
 This project compares the performance of two supervised learning models — **Support Vector Machines (SVM)** and **Neural Networks (NN)** — on a synthetic 2D binary classification dataset. The dataset is sourced from the CMU StatLib repository, specifically designed for evaluating pattern recognition models with nonlinear boundaries.
